@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-<img src="brayan-osegueda.io/images
+<img src="/brayan-osegueda.io/images
 /openart-image_5iz9nSUA_1752093517415_raw.png" alt="illustration of protein engineering" style="float: right; width: 300px;">
 
 
