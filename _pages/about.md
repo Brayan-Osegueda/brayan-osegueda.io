@@ -12,7 +12,7 @@ redirect_from:
 
 
 
-<img src="/brayan-osegueda.io/images/openart-image_5iz9nSUA_1752093517415_raw.png" alt="protein image" style="float:right; width:300px;">
+<img src="/images/openart-image_5iz9nSUA_1752093517415_raw.png" alt="protein image" style="float:right; width:300px;">
 I am first and foremost a student in all aspects of my life. Constantly learning and honing my skills, I found that I graduated college with a desire to do more. As an incoming graduate student at Washington State University, I am excited and hopeful for my career in academia. 
 
 I am studying Bioengineering with a focus in protein engineering. My aim is to bridge the gap in computational protein-protein interaction prediction and real world results seen at the bench. 
