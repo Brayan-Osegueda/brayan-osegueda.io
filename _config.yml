@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/Brayan-Goldwater.png"
+  avatar           : "Brayan-Goldwater.png"
   name             : "Brayan Osegueda"
   pronouns         : # example: "she/her"  
   bio              : "Bioengineering Graduate Student"
