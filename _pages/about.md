@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-![illustration of protein engineering](/images/openart-image_5iz9nSUA_1752093517415_raw.png){: .align-right width= "300px"}
+![illustration of protein engineering](/images/openart-image_5iz9nSUA_1752093517415_raw.png){: .align-right width="380px"}
 
 I am first and foremost a student in all aspects of my life. Constantly learning and honing my skills, I found that I graduated college with a desire to do more. As an incoming graduate student at Washington State University, I am excited and hopeful for my career in academia. 
 
