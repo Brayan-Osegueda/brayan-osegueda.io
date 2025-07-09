@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 
-<img src="openart-image_5iz9nSUA_1752093517415_raw.png" alt="illustration of protein engineering" style="float: right; width: 300px;">
+<img src="brayan-osegueda.io/images
+/openart-image_5iz9nSUA_1752093517415_raw.png" alt="illustration of protein engineering" style="float: right; width: 300px;">
 
 
 I am first and foremost a student in all aspects of my life. Constantly learning and honing my skills, I found that I graduated college with a desire to do more. As an incoming graduate student at Washington State University, I am excited and hopeful for my career in academia. 
