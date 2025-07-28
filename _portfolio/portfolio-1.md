@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Investingating Cardiac Leiomdoin's Tropomyosin Binding Interface"
+excerpt: "Using computational and in vitro techniques, I investigated small mutation changes in affinity changes seen at the tropomyosin-leiomodin binding sites 1<br/><img src='/images/500x300.png'>"
 collection: portfolio
 ---
 
