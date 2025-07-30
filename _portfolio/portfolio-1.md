@@ -1,6 +1,6 @@
 ---
 title: "Investigating Cardiac Leiomdoin's Tropomyosin Binding Interface"
-excerpt: "Using computational and in vitro techniques, I investigated small mutation changes in affinity between the tropomyosin-leiomodin binding sites 1<br/><img src='Positions-of-the-mutations-A-Structure-of-Lmod2s1-aTM1a1-14Zip-complex-PDB-ID-6UT2.png'>"
+excerpt: "Using computational and in vitro techniques, I investigated small mutation changes in affinity between the tropomyosin-leiomodin binding sites ![Alt text](Positions-of-the-mutations-A-Structure-of-Lmod2s1-aTM1a1-14Zip-complex-PDB-ID-6UT2.png)
 collection: portfolio
 ---
 
